@@ -24,7 +24,7 @@
         <module>xingyun-sc</module>
         <module>xingyun-chart</module>
         <module>xingyun-settle</module>
-        <module>xingyun-template</module> c'
+        <module>xingyun-template</module>
         <module>xingyun-template-core</module>
         <module>cloud/xingyun-cloud-api</module>
         <module>xingyun-common</module>
